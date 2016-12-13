@@ -1,0 +1,53 @@
+#WDContentPlaceHolder a:link, #WDContentPlaceHolder a:visited, #WDContentPlaceHolder a:active{color:#2B4661;text-decoration:none;font-weight:bold;}
+#WDContentPlaceHolder a:hover{color:#DE9700;text-decoration:none;font-weight:bold;}
+
+#WDContentPlaceHolder p{color:#3a3ad0; font-size:1.0em;}
+
+
+#WDContentPlaceHolder table{position:relative;}
+#WDContentPlaceHolder td{position:relative;}
+#WDContentPlaceHolder tr{position:relative;}
+#WDContentPlaceHolder t5{position:relative;}
+
+#WDContentPlaceHolder .tableTitle{margin-left:30px;color:#3a3ad0;font-style:italic;}
+#WDContentPlaceHolder .tableBody {margin-left:10px;color:#ea552b;border:none;width:95%;max-width:95%;border-collapse:collapse;}
+#WDContentPlaceHolder .tableBody TD {padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;border:1px solid #ea552b;vertical-align:top;width:50%;}
+#WDContentPlaceHolder .tableHeader {color:#ffffff;background-color:#ea552b;}
+
+
+#WDContentPlaceHolder img{vertical-align:middle;}
+
+
+#WDContentPlaceHolder h1{color:#4eb694;font-size:6.4em;font-weight:600;}
+#WDContentPlaceHolder .HeaderSuffix{background-color:#4eb694;color:#ffffff;font-size:3.4em;font-weight:600;padding:5px;}
+#WDContentPlaceHolder h2{color:#ea552b;font-size:3.1em;font-weight:600;}
+#WDContentPlaceHolder h3{color:#ea552b;font-size:2.1em;font-weight:600;}
+#WDContentPlaceHolder h4{color:#ea552b;font-size:1.6em;font-weight:600;}
+#WDContentPlaceHolder h5{color:#ea552b;font-size:3.1em;font-weight:600;}
+#WDContentPlaceHolder h6{color:#ea552b;font-size:2.1em;font-weight:600;}
+#WDContentPlaceHolder h7{color:#ea552b;font-size:1.0em;font-weight:600;}
+
+#WDContentPlaceHolder .headerSuffix {background-color:#4eb694;color:#ffffff;}
+
+#WDContentPlaceHolder .keyPoint{color:#3a3ad0;font-size:1.0em;font-weight:600;}
+#WDContentPlaceHolder .keyPointQualifier{color:#3a3ad0;font-size:1.0em;}
+
+#WDContentPlaceHolder .contents {color:#3a3ad0;}
+#WDContentPlaceHolder .figure {color:#00009e;font-size:1.5em;}
+
+#WDContentPlaceHolder .keyObjHeader {background-color:#aad5c4;color:#000000;font-weight:600;line-height:1.6em;padding-top:5px;padding-left:5px;padding-right:5px;padding-bottom:2px;}
+#WDContentPlaceHolder .keyObjContent {background-color:#aad5c4;color:#000000;line-height:1.6em;padding-top:2px;padding-left:5px;padding-right:5px;padding-bottom:5px;}
+
+
+#WDContentPlaceHolder li{color:#000000;line-height:1.6em;}
+#WDContentPlaceHolder .listBullet {}
+#WDContentPlaceHolder .listNum {}
+#WDContentPlaceHolder .listSummary {color:#6dff00;}
+#WDContentPlaceHolder .listSub {margin-left:20px;list-style-type:circle;}
+
+#WDContentPlaceHolder .paraDefault {color:#000000; font-size:1.0em;}
+#WDContentPlaceHolder .paraBig {color:#3a3ad0; font-size:1.1em;}
+
+#WDContentPlaceHolder .reference { background-color:#ebf5f0;font-weight:600; padding:5px;}
+
+

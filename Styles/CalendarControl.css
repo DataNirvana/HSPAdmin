@@ -1,0 +1,118 @@
+#CalendarControlIFrame {
+  display:none;
+  left:0px;
+  position:absolute;
+  top:0px;
+  height:250px;
+  width:250px;
+  z-index:99;
+  border-radius:5px;
+}
+#CalendarControl {
+  position:absolute;
+  background-color:#ffffff;
+  margin:0;
+  padding:0;
+  display:none;
+  z-index:100;
+  font-family:arial, verdana, helvetica, sans-serif;
+  border-radius:5px;
+}
+#CalendarControl table {
+  border-left:3px solid #3b3b3b; 
+  border-right:3px solid #3b3b3b;
+  font-size:8pt;
+
+  border-spacing:0px;
+  padding:0px;
+}
+#CalendarControl th {
+  font-weight:normal;
+}
+#CalendarControl th a {
+  font-weight:normal;
+  text-decoration:none;
+  color:#ffffff;
+  padding:1px;
+}
+#CalendarControl td {
+  text-align:center;
+  border-spacing:0px;
+  padding:0px;
+}
+#CalendarControl .ccHeader {
+  background-color:#3b3b3b;
+  color:#ffffff;
+  border-radius:5px 5px 0px 0px;
+  padding:3px;
+  text-align:center;
+  padding:2px;
+  font-size:10pt;
+}
+#CalendarControl .ccFooter {
+  background-color:#3b3b3b;
+  color:#ffffff;
+  text-align:center;
+  border-radius:0px 0px 5px 5px;
+  padding:3px;
+  font-size:10pt;
+}
+#CalendarControl .weekday {
+  background-color:#ffffff;
+  color:#000;
+}
+#CalendarControl .weekend {
+  background-color:#e17110;
+  color:#000;
+}
+#CalendarControl .current {
+  border:1px solid #339;
+  background-color:#3b3b3b;
+  color:#ffffff;
+}
+#CalendarControl .weekday,
+#CalendarControl .weekend,
+#CalendarControl .current {
+  display:block;
+  text-decoration:none;
+  border:1px solid #ffffff;
+  width:2em;
+}
+#CalendarControl .weekday:hover,
+#CalendarControl .weekend:hover,
+#CalendarControl .current:hover {
+  color:#FFF;
+  background-color:#3b3b3b;
+  border:1px solid #999;
+}
+#CalendarControl .previous,
+#CalendarControl .next {
+  color:#ffffff;
+  text-decoration:none;
+  font-size:10pt;
+  font-weight:bold;
+}
+#CalendarControl .footerText {
+  color:#ffffff;
+  text-decoration:none;
+  font-weight:bold;
+}
+#CalendarControl a:hover {
+  color:#e17110;
+  text-decoration:none;
+  font-weight:bold;
+}
+#CalendarControl .title {
+  text-align:center;
+  font-weight:bold;
+  color:#ffffff;
+}
+#CalendarControl .empty {
+  background-color:#ffffff;
+  border:1px solid #ffffff;
+}
+#CalendarControl .dropDown {
+  color:#ffffff;
+  background-color:#3b3b3b; 
+  width:55px;
+}
